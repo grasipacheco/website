@@ -1,0 +1,26 @@
+
+body
+
+#coffee{
+  background-image: url('../img/coffee.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 245px;
+  width: 49%;
+  display: inline-block;
+  margin: 0;
+}
+
+.texto{
+width: 49%;
+height: 245px;
+color: white;
+background-color: saddlebrown;
+display: inline-block;
+margin: 0;
+}
+
+.caixa{
+background-color: white;
+color: saddlebrown;
+}
